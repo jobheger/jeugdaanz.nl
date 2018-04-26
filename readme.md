@@ -1,12 +1,14 @@
 # Jeugd aan Z
 
-Laatste update: 19/04/2018
+Laatste update: 26/04/2018
 
 © 2018 Job Heger. Alle rechten voorbehouden.
 
 
 
 **Changelog**
+
+**1.0.4** Nog enkele logo's toegevoegd.
 
 **1.0.3** Nieuwe logo's toegevoegd.
 
